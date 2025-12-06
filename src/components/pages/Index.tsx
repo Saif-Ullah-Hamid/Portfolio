@@ -1,9 +1,9 @@
-import { Navigation } from "@/components/Navigation";
-import { HeroSection } from "@/components/HeroSection";
-import { SkillsSection } from "@/components/SkillsSection";
-import { ProjectsSection } from "@/components/ProjectsSection";
-import { ContactSection } from "@/components/ContactSection";
-import { Footer } from "@/components/Footer";
+import { Navigation } from "../Navigation";
+import { HeroSection } from "../HeroSection";
+import { SkillsSection } from "../SkillsSection";
+import { ProjectsSection } from "../ProjectsSection";
+import { ContactSection } from "../ContactSection";
+import { Footer } from "../Footer";
 
 const Index = () => {
   return (
