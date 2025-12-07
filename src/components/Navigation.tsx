@@ -31,7 +31,7 @@ export function Navigation() {
           href="#"
           className="font-heading text-xl font-bold gradient-text"
         >
-          Portfolio
+          Saif Ullah
         </a>
 
         {/* Desktop Navigation */}
