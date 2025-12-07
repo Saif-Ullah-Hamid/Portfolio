@@ -14,7 +14,7 @@ const projects = [
   {
     title: "Weather App",
     description: "Providing users with essential, hyper-local weather intelligence to optimize their day.",
-    image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1705077689363-76d4424a13c7?q=80&w=809&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=800&auto=format&fit=crop&q=60",
     technologies: ["HTML","CSS","React.js"],
     liveUrl: "#",
     githubUrl: "#",
@@ -23,7 +23,7 @@ const projects = [
   {
     title: "Task Management App",
     description: "Collaborative project management tool with real-time updates and team analytics.",
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&auto=format&fit=crop&q=60",
     technologies: ["HTML", "CSS", "React"],
     liveUrl: "#",
     githubUrl: "#",
@@ -32,7 +32,7 @@ const projects = [
   {
     title: "Meme Generator",
     description: "A seamless, lighting-fast meme generator designed for maximum virality, allowing users to create, customize, and share trending content instantly across platforms.",
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1763568258535-fa1066506571?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=800&auto=format&fit=crop&q=60",
     technologies: ["HTML", "CSS", "React"],
     liveUrl: "#",
     githubUrl: "#",
@@ -41,7 +41,7 @@ const projects = [
    {
     title: "Offline Dictionary Desktop Application",
     description: "A standalone desktop application built for fast, offline lookups of word definitons",
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1609144324678-dff17a2d8892?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=800&auto=format&fit=crop&q=60",
     technologies: ["Python","Custome Tkinter"],
     liveUrl: "#",
     githubUrl: "#",
@@ -50,7 +50,7 @@ const projects = [
    {
     title: "Custom QR code generator Utility",
     description: "Developed a simple, efficient utility that allows users to generate custom QR codes for URLs, text, and other data types.",
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1650454664813-904aa41701bb?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=800&auto=format&fit=crop&q=60",
     technologies: ["HTML", "CSS", "React"],
     liveUrl: "#",
     githubUrl: "#",
