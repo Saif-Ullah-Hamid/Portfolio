@@ -71,7 +71,7 @@ export function HeroSection() {
         </div>
 
         {/* Scroll Indicator */}
-        <div className="absolute bottom-0 left-[550px] -translate-x-1/2 animate-float">
+        <div className="absolute bottom-4 left-[550px] -translate-x-1/2 animate-float">
           <a href="#skills" className="flex flex-col items-center gap-2 text-muted-foreground hover:text-foreground transition-colors">
             <span className="text-sm">Scroll to explore</span>
             <ArrowDown className="w-5 h-5" />
